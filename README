@@ -1,3 +1,6 @@
 This is simple C# .NET form application that will ask the user how many characters to generate (default 128) and whether to use special characters (default yes), then generate as many as button presses and puts them onto the clipboard.
 
 I use the app for generating temporary keys when moving sensitive data through the internet. The liklihood of interception is extremely low, but I really want to protect the data. This gives me ample security for my use case.
+
+A typical key will look like this (with special characters). Note that length is fully adjustable.
+Jc[=\j>+K@{dn[F:/5f|6(pB*Z)N&D`gS-h}1%2v5E>f!Ry3rQ5D>BwiAy>%B|p_KcpXx#]T)`Y\OQ;?(|__!\>I"R'(6sO3\yj\Tqc2n'?C1-g9jI3'uvRVp`:5{d|(
